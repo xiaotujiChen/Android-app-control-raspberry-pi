@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_dc77631f2b6e85fc51079c6d2200bfa0454709a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_bfda37568a0c7fa563e61860d02b17e5ff8c6f3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9629dc04334f108dc265f5c84f78365c3545ee2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_b7cd716f5e8cc93a9a2930fa30e645dd475befb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_3329c7f3344605f119517aa46f676f75c580eb2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_7fe9f242f774db74c4991eda38f173d7e9ac7232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7048cbe6f06eb569f330af065c2e952e53fce21c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_4da73e1333a2803e6441b926ec726cbd79bc69d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0fedf365376db32d05889f3c96bc824369d1d94f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_a10ecb96c42e1c62a6a038e7183c091c899223bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_1fdde0057872d260e7dd0a70c134fefa80fc5e41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3fa4c69e90e845980175dac2ca0880cc9c38b48">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_791a3e5fa0c5c897495d2d9968f8519a7b3dc33e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_dfe3ceff54c25d9fb4fc478e042b386ce75437de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6108ad3a6628eceb174be743dcbb272757d2969e">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f223437091d3eb796349714d7a5b06e00cb5a7b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8ef56837e0aa6f248e91790783ce54cc36993aa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_6904eec09b1c2582cdde9a1ccd77ad93d70b3a80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/xiyuchen/AndroidStudioProjects/raspApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f319fa286b908cdbe88953a38eba89375c76a573/classes.dex" />
+    </item>
+
+</items>
