@@ -2,7 +2,7 @@
 ###Introduction
 An Android App designed to control smart alarm clock(base on Raspberry Pi,[ learn more](https://github.com/xiaotujiChen/Smart-Alarm-Clock)). It could trigger different functions of alarm clock without touch it
 ###System Design
-Use Android Studio to design the APP and build the connection between Android and Raspberry Pi.
+Use Android Studio to design the APP and build the connection between Android and alarm clock.
 ![GitHub](http://coderxiaoyu.com/alarmclock/img/appsystem.jpg)
 ###UI Design
 ![GitHub](http://coderxiaoyu.com/alarmclock/img/ui.jpg)
